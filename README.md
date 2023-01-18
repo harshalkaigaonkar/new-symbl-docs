@@ -1,5 +1,5 @@
 # new-symbl-docs
-Made with nextjs and tailwindcss during Github-Externship Winter Cohort 2021.
+A [Symbl.ai](https://symbl.ai) Documentation Prototype from nextjs and tailwindcss during Github-Externship Winter Cohort 2021.
 
 ## Update:
 Can be an SSG tool for your purpose to develop any docs in MD.
